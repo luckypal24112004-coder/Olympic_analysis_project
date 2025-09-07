@@ -1,9 +1,4 @@
 
----
-
-## ** Olympic Analysis Project**
-
-```markdown
 # Olympic Data Analysis Project
 
 ## Purpose
