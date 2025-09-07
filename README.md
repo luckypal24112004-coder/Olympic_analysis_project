@@ -1,7 +1,7 @@
 
 ---
 
-## **2️⃣ Olympic Analysis Project**
+## ** Olympic Analysis Project**
 
 ```markdown
 # Olympic Data Analysis Project
