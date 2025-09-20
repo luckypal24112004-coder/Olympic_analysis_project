@@ -16,12 +16,14 @@ This project analyzes historical Olympic data to uncover trends in medal distrib
 - **Exploratory Data Analysis (EDA)**  
   - Analyzed medal counts by country & athlete  
   - Examined age and gender distributions  
-  - Explored trends in participation over time  
+  - Explored trends in participation over time
+  - etc. 
 
 - **Insights Derived**  
   - Top-performing countries by medal count  
   - Most successful athletes  
-  - Growth in participation across years  
+  - Growth in participation across years
+  - etc.
 
 ---
 
