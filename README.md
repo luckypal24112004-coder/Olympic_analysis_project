@@ -1,7 +1,7 @@
 
 # 🏅 Olympic Data Analysis Project  
 
-🌐 **Live Demo**: [Try it here](https://olympic-analysis-project.onrender.com)  
+🌐 **Live Demo(may take 30 to 60 seconds due to free hosting)**: [Try it here](https://olympic-analysis-project.onrender.com)  
 
 This project analyzes historical Olympic data to uncover trends in medal distribution, country performance, and athlete participation. The goal is to demonstrate data analysis and visualization skills to gain insights from real-world sports data.  
 
